@@ -1,5 +1,183 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Blog Title</title><link>https://IdeaPulse.github.io</link><description>Blog description</description><copyright>Blog Title</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://github.githubassets.com/favicons/favicon.svg</url><title>avatar</title><link>https://IdeaPulse.github.io</link></image><lastBuildDate>Mon, 12 May 2025 00:53:29 +0000</lastBuildDate><managingEditor>Blog Title</managingEditor><ttl>60</ttl><webMaster>Blog Title</webMaster><item><title>5.12早读考勤</title><link>https://IdeaPulse.github.io/post/5.12-zao-du-kao-qin.html</link><description>&lt;html xmlns:v='urn:schemas-microsoft-com:vml' xmlns:o='urn:schemas-microsoft-com:office:office' xmlns:x='urn:schemas-microsoft-com:office:excel' xmlns='http://www.w3.org/TR/REC-html40'&gt;
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Blog Title</title><link>https://IdeaPulse.github.io</link><description>Blog description</description><copyright>Blog Title</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://github.githubassets.com/favicons/favicon.svg</url><title>avatar</title><link>https://IdeaPulse.github.io</link></image><lastBuildDate>Wed, 14 May 2025 02:16:50 +0000</lastBuildDate><managingEditor>Blog Title</managingEditor><ttl>60</ttl><webMaster>Blog Title</webMaster><item><title>5.13早读考勤</title><link>https://IdeaPulse.github.io/post/5.13-zao-du-kao-qin.html</link><description>&lt;html xmlns:v='urn:schemas-microsoft-com:vml' xmlns:o='urn:schemas-microsoft-com:office:office' xmlns:x='urn:schemas-microsoft-com:office:excel' xmlns='http://www.w3.org/TR/REC-html40'&gt;
+&lt;head&gt;
+
+&lt;meta name=Generator content='Microsoft Excel'&gt;
+&lt;!--[if !mso]&gt;
+&lt;style&gt;
+v\:* {behavior:url(#default#VML);}
+o\:* {behavior:url(#default#VML);}
+x\:* {behavior:url(#default#VML);}
+.shape {behavior:url(#default#VML);}
+&lt;/style&gt;
+&lt;![endif]--&gt;
+&lt;style&gt;
+&lt;!--.font0
+	{color:#000000;
+	font-size:11.0pt;
+	font-family:宋体;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;}
+.font1
+	{color:#000000;
+	font-size:11.0pt;
+	font-family:宋体;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;}
+.font2
+	{color:#000000;
+	font-size:14.0pt;
+	font-family:微软雅黑;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;}
+.font3
+	{color:#000000;
+	font-size:14.0pt;
+	font-family:微软雅黑;
+	font-weight:700;
+	font-style:normal;
+	text-decoration:none;}
+br
+	{mso-data-placement:same-cell;}
+td
+	{padding-top:1px;
+	padding-left:1px;
+	padding-right:1px;
+	mso-ignore:padding;
+	color:#000000;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:宋体;
+	mso-generic-font-family:auto;
+	mso-font-charset:134;
+	mso-number-format:General;
+	border:none;
+	mso-background-source:auto;
+	mso-pattern:auto;
+	text-align:general;
+	vertical-align:middle;
+	white-space:nowrap;
+	mso-rotate:0;
+	mso-protection:locked visible;}
+.et2
+	{color:#000000;
+	mso-generic-font-family:auto;
+	mso-font-charset:134;}
+.et3
+	{color:#000000;
+	mso-generic-font-family:auto;
+	mso-font-charset:134;
+	text-align:center;}
+.et4
+	{color:#000000;
+	mso-generic-font-family:auto;
+	mso-font-charset:134;
+	border:.5pt solid #000000;
+	text-align:center;}
+.et5
+	{color:#000000;
+	font-size:14.0pt;
+	font-family:微软雅黑;
+	mso-generic-font-family:auto;
+	mso-font-charset:134;
+	mso-number-format:'0_)\;\\(0\\)';
+	border:.5pt solid #000000;
+	text-align:center;}
+.et6
+	{color:#000000;
+	font-size:14.0pt;
+	font-family:微软雅黑;
+	mso-generic-font-family:auto;
+	mso-font-charset:134;
+	mso-number-format:'0_)\;\\(0\\)';
+	border-top:.5pt solid #000000;
+	border-right:.5pt solid #000000;
+	border-bottom:1.0pt solid #000000;
+	border-left:.5pt solid #000000;
+	text-align:center;}
+.et7
+	{color:#000000;
+	font-size:14.0pt;
+	font-weight:700;
+	font-family:微软雅黑;
+	mso-generic-font-family:auto;
+	mso-font-charset:134;
+	border:.5pt solid #000000;
+	text-align:center;
+	white-space:normal;}
+.et8
+	{color:#000000;
+	font-size:14.0pt;
+	font-family:微软雅黑;
+	mso-generic-font-family:auto;
+	mso-font-charset:134;
+	border:.5pt solid #000000;
+	text-align:center;}
+.et9
+	{color:#000000;
+	font-size:14.0pt;
+	font-family:微软雅黑;
+	mso-generic-font-family:auto;
+	mso-font-charset:134;
+	border:.5pt solid #000000;
+	background:#C0C0C0;
+	mso-pattern:auto none;
+	text-align:center;}
+--&gt;
+&lt;/style&gt;
+&lt;/head&gt;
+&lt;body&gt;
+&lt;!--StartFragment--&gt;
+
+班级 | 校服 | 卫生 | 考勤
+-- | -- | -- | --
+初一(1)班 |   |   |  
+初一(2)班 |   |   |  
+初一(3)班 |   |   |  
+初一(4)班 |   |   |  
+初一(5)班 |   |   |  
+初一(6)班 |   |   |  
+初一(7)班 |   |   |  
+初一(8)班 |   | 1 |  
+初一(9)班 |   |   |  
+初一(10)班 |   |   |  
+初一(11)班 |   |   |  
+初一(12)班 |   |   |  
+初二(1)班 |   |   |  
+初二(2)班 |   |   |  
+初二(3)班 |   |   |  
+初二(4)班 |   |   |  
+初二(5)班 |   |   |  
+初二(6)班 |   |   |  
+初二(7)班 |   |   |  
+初二(8)班 |   |   |  
+初二(9)班 |   |   |  
+初二(10)班 |   |   |  
+初二(11)班 |   |   |  
+初二(12)班 |   |   |  
+初三(1)班 |   |   |  
+初三(2)班 |   |   |  
+初三(3)班 |   |   |  
+初三(4)班 |   |   |  
+初三(5)班 |   |   |  
+初三(6)班 |   |   |  
+初三(7)班 |   |   |  
+初三(8)班 |   |   |  
+初三(9)班 |   |   |  
+初三(10)班 |   |   |  
+初三(11)班 |   |   |  
+
+
+&lt;!--EndFragment--&gt;
+&lt;/body&gt;
+
+&lt;/html&gt;
+。</description><guid isPermaLink="true">https://IdeaPulse.github.io/post/5.13-zao-du-kao-qin.html</guid><pubDate>Wed, 14 May 2025 02:16:25 +0000</pubDate></item><item><title>5.12早读考勤</title><link>https://IdeaPulse.github.io/post/5.12-zao-du-kao-qin.html</link><description>&lt;html xmlns:v='urn:schemas-microsoft-com:vml' xmlns:o='urn:schemas-microsoft-com:office:office' xmlns:x='urn:schemas-microsoft-com:office:excel' xmlns='http://www.w3.org/TR/REC-html40'&gt;
 &lt;head&gt;
 
 &lt;meta name=Generator content='Microsoft Excel'&gt;
